@@ -29,4 +29,3 @@ def average(nums):
     return sum(nums) / len(nums)
 
 print("Average ages example:", average([24, 25, 29]))
-python3 python_basics/lesson1_basics.py
